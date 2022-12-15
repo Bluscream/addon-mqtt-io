@@ -1,9 +1,9 @@
 ---
-name: MQTT IO
+name: MQTT IO (Full Access)
 version: dev
 slug: mqtt-io
 description: Expose GPIO modules and digital sensors via MQTT for remote control and monitoring.
-url: https://github.com/hassio-addons/addon-mqtt-io
+url: https://github.com/Bluscream/addon-mqtt-io
 codenotary: codenotary@frenck.dev
 arch:
   - aarch64
